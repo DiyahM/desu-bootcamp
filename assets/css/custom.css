@@ -1,0 +1,45 @@
+.btn-theme, .btn-cta {
+  margin-top: 25px;
+}
+.btn-theme {
+  border-color: #33ab7d;
+  background-color: #33ab7d;
+}
+#headerwrap {
+  margin-top: 89px;
+}
+.headerwrap-overlay {
+  background: rgba(4, 22, 39, 0.75);
+  overflow: hidden;
+  min-height: 300px;
+  z-index: 2
+}
+.white {
+  margin-top: 0px;
+  background-color: #ffffff;
+  min-height: 300px;
+  width: 100%;
+}
+.grey {
+  margin-top: 0px;
+  background-color: #f7f7f7;
+  min-height: 300px;
+  width: 100%;
+}
+
+.learn{
+  font-size:1.5em;
+  margin-bottom: 20px;
+}
+#grey .fa{
+  color: green;
+}
+.subtitle {
+  font-size: 1.8em;
+  font-weight: bold;
+}
+#black p.tuition{
+  font-size: 3em;
+  margin-top: 25px;
+  
+}
